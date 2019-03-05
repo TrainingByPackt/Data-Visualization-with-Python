@@ -1,6 +1,6 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data Visualization with Python.svg)](https://github.com/TrainingByPackt/Java-Fundamentals/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data Visualization with Python.svg)](https://github.com/TrainingByPackt/Java-Fundamentals/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data Visualization with Python.svg)](https://github.com/TrainingByPackt/Java-Fundamentals/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data Visualization with Python.svg)](https://github.com/TrainingByPackt/Data Visualization with Python/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data Visualization with Python.svg)](https://github.com/TrainingByPackt/Data Visualization with Python/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data Visualization with Python.svg)](https://github.com/TrainingByPackt/Data Visualization with Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data Visualization with Python/pulls)
 
 # Data Visualization with Python
