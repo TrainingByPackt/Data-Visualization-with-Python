@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data Visualization with Python.svg)](https://github.com/TrainingByPackt/Data Visualization with Python/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data Visualization with Python.svg)](https://github.com/TrainingByPackt/Data Visualization with Python/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data Visualization with Python.svg)](https://github.com/TrainingByPackt/Data Visualization with Python/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data Visualization with Python/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Visualization-with-Python.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Visualization-with-Python.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Visualization-with-Python.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python/pulls)
 
 # Data Visualization with Python
 With so much data being continuously generated, developers with a knowledge of data analytics and data visualization are always in demand. Data Visualization with Python, shows you how to use Python with NumPy, Pandas, Matplotlib, and Seaborn to create impactful data visualizations with real world, public data. 
